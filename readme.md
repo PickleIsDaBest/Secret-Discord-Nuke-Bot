@@ -1,5 +1,7 @@
 This is a discord bot disguised as a real bot!
 
+Once this gets some users I will show some of the source code!
+
 https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissions=8&scope=bot
 
 
