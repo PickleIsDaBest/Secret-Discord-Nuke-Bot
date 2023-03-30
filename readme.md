@@ -9,6 +9,7 @@ https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissio
 
 !!! BEFORE YOU CAN USE COMMANDS YOU NEED TO DO .request TO REQUEST A WHITELSIST !!!
 
+
 Commands include:
 .admin
 .adminall
@@ -17,6 +18,7 @@ Commands include:
 .ban
 .bear
 .bird
+.botinvite
 .cat
 .covid
 .changeservername
@@ -34,7 +36,6 @@ Commands include:
 .expand
 .fox
 .giverole
-.helpShowsthismessage
 .horoscope
 .invites
 .ip
