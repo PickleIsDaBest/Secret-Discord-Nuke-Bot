@@ -1,5 +1,6 @@
 This is a discord bot disguised as a real bot!
 
+THIS BOT UPDATES EVERYDAY WITH BETTER IMPROVEMENTS!
 
 Once this gets some users I will show some of the source code!
 
@@ -9,8 +10,8 @@ https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissio
 
 !!! BEFORE YOU CAN USE COMMANDS YOU NEED TO DO .request TO REQUEST A WHITELSIST !!!
 
-
 Commands include:
+.addrole
 .admin
 .adminall
 .advice
@@ -35,6 +36,7 @@ Commands include:
 .dolphin
 .expand
 .fox
+.freegames
 .giverole
 .horoscope
 .invites
@@ -58,6 +60,7 @@ Commands include:
 .pun
 .purge
 .quoteoftheday
+.removerole
 .roast
 .say
 .servercount
@@ -68,6 +71,7 @@ Commands include:
 .unban
 .unmute
 .uptime
+.userroles
 .version
 .weather
 .wikihow
