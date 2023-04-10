@@ -40,6 +40,7 @@ Commands include:
 .expand
 .fox
 .freegames
+.gen2010
 .giverole
 .horoscope
 .invites
