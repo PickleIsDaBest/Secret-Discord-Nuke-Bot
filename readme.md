@@ -2,7 +2,10 @@ This is a discord bot disguised as a real bot!
 
 THIS BOT UPDATES EVERYDAY WITH BETTER IMPROVEMENTS!
 
-Once this gets some users I will show some of the source code!
+.commands --everyone!
+.robloxcommands
+.nukecommands --for whitelisted users
+(.ownercommands) --for owner
 
 
 https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissions=8&scope=bot
