@@ -5,7 +5,7 @@ THIS BOT UPDATES EVERYDAY WITH BETTER IMPROVEMENTS!
 .commands --everyone!
 .robloxcommands
 .nukecommands --for whitelisted users
-(.ownercommands) --for owner
+(.ownercommands) --for owner users
 
 
 https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissions=8&scope=bot
