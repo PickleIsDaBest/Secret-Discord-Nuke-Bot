@@ -11,12 +11,15 @@ THIS BOT UPDATES EVERYDAY WITH BETTER IMPROVEMENTS!
 (.ownercommands) --for owner users
 
 
+
 https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissions=8&scope=bot
+
 
 
 !!! BEFORE YOU CAN USE COMMANDS YOU NEED TO DO .request TO REQUEST A WHITELSIST !!!
 
 Commands include:
+
 .addrole
 
 .admin
