@@ -14,7 +14,7 @@ THIS BOT UPDATES EVERYDAY WITH BETTER IMPROVEMENTS!
 
 https://discord.com/api/oauth2/authorize?client_id=1070741140254490644&permissions=8&scope=bot
 
-
+_______________________________________________________________________________________________
 
 !!! BEFORE YOU CAN USE COMMANDS YOU NEED TO DO .request TO REQUEST A WHITELSIST !!!
 
