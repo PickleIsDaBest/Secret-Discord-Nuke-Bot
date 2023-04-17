@@ -6,8 +6,6 @@ ________________________________________________________________________________
 
 .commands --everyone!
 
-.robloxcommands
-
 .nukecommands --for whitelisted users
 
 (.ownercommands) --for owner users
@@ -64,10 +62,11 @@ Commands include:
 
 .deletewebhooks
 
+.dhcrate
+
 .dog
 
 .dolphin
-
 
 .expand
 
@@ -75,7 +74,7 @@ Commands include:
 
 .freegames
 
-.gen2010
+.gen2010 (ROBLOX ACCOUNT)
 
 .giverole
 
