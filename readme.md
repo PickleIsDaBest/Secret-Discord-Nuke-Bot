@@ -54,7 +54,7 @@ Commands include:
 
 .coinflip
 
-.commands
+.command
 
 .compliment
 
